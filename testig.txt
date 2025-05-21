@@ -1,3 +1,5 @@
-local part1 = "gsk_NLWWwyB3aVMrYyC"
-local part2 = "YtePJWGdyb3FYJ8D8A0E"
-local part3 = "VzmZUUn3GoMYNBu2B"
+local part1 = "gsk_i9w8flhbjWoKCenZOF"
+local part2 = "J5WGdyb3FYxRnG7mKLJO"
+local part3 = "QM1QxKPsmd3J4v"
+
+
