@@ -1,0 +1,3 @@
+local part1 = "gsk_NLWWwyB3aVMrYyC"
+local part2 = "YtePJWGdyb3FYJ8D8A0E"
+local part3 = "VzmZUUn3GoMYNBu2B"
